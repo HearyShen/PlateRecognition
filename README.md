@@ -5,7 +5,7 @@
 
 ## 1 Introduction
 
-**It's just a course DEMO, not capble of professional use.**
+**It's just a course DEMO, not capable of professional use.**
 
 ### 1.1  Features
 - write in Matlab
