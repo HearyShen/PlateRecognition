@@ -1,7 +1,7 @@
 # PlateRecognition
 
 ## 0 Caption
-- A plate recognition demo, developed for Digital Graph Processing Course.
+- A plate recognition demo, developed for Digital Image Processing Course.
 
 ## 1 Introduction
 
